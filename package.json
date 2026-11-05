@@ -1,0 +1,24 @@
+{
+  "name": "@igor-guari/pi-skill-implement",
+  "version": "1.0.0",
+  "description": "Implement a piece of work based on a spec or set of tickets.",
+  "keywords": [
+    "pi-package",
+    "pi-skill",
+    "pi",
+    "implement",
+    "engineering-skills"
+  ],
+  "author": "Igor Guariroba",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorGuariroba/pi-skill-implement.git"
+  },
+  "homepage": "https://github.com/IgorGuariroba/pi-skill-implement#readme",
+  "pi": {
+    "skills": [
+      "."
+    ]
+  }
+}
